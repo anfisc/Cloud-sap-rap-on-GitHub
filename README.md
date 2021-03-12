@@ -13,6 +13,7 @@ This repository contains sample code that helps you to create boiler plate codin
      DATA(todos) = rap_generator->generate_bo(  ).
   </pre>
 - You can now specify a transport request that shall be used
+- The RAP Generator has moved to the namespace /DMO/ so that it cannot be edited anymore in the trial systems
 
   
 ## Motivation
